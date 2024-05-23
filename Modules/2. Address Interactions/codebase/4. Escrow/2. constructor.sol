@@ -12,5 +12,7 @@ contract Escrow {
         arbiter = _arbiter;
         beneficiary = _beneficiary;
     }
+
+    
 }
 
